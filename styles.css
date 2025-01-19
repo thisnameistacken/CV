@@ -24,7 +24,7 @@ h1 {
     font-size: 2em;
     font-weight: 400;
     color: #221818;
-    text-align: center;
+    text-align: start;
 }
 
 h2 {
@@ -47,7 +47,7 @@ p {
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
