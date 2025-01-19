@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;700&display=swap');
 
 .container {
     width: 50vw;
@@ -72,8 +72,19 @@ a:hover {
 hr {
     width: 100%;
     border: none;
-    border-top: 1px solid #7b7b7b;
+    border-top: 1px solid #848484;
     margin-top: 40px;
+}
+
+ul {
+    font-weight: inherit; 
+    list-style-type: disc; 
+}
+
+li {
+    font-weight: 100;
+    color: #000;
+    line-height: 1.6;
 }
 
 .footer-text {
