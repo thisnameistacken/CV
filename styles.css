@@ -35,13 +35,13 @@ h2 {
 
 h3 {
     font-size: 1.6em;
-    font-weight: 300;
+    font-weight: 200;
     color: #000;
 }
 
 p {
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 200;
     color: #000;
     margin-bottom: 1em;
 }
@@ -82,7 +82,7 @@ ul {
 }
 
 li {
-    font-weight: 100;
+    font-weight: 200;
     color: #000;
     line-height: 1.6;
 }
